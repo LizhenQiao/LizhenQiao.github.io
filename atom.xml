@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LizhenQiao&#39;s Space</title>
+  
+  
+  <link href="https://lizhenqiao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lizhenqiao.github.io/"/>
+  <updated>2021-09-03T01:37:13.927Z</updated>
+  <id>https://lizhenqiao.github.io/</id>
+  
+  <author>
+    <name>Lizhen Qiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://lizhenqiao.github.io/2021/09/02/test-1/"/>
+    <id>https://lizhenqiao.github.io/2021/09/02/test-1/</id>
+    <published>2021-09-03T01:36:31.000Z</published>
+    <updated>2021-09-03T01:37:13.927Z</updated>
+    
+    <content type="html"><![CDATA[<p>09.02- test</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;09.02- test&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>wechatQRcode</title>
+    <link href="https://lizhenqiao.github.io/2021/08/29/wechatQRcode/"/>
+    <id>https://lizhenqiao.github.io/2021/08/29/wechatQRcode/</id>
+    <published>2021-08-29T19:58:56.000Z</published>
+    <updated>2021-08-31T02:07:55.016Z</updated>
+    
+    <content type="html"><![CDATA[<p>Would like to introduce me with girlfriend?<br>QRcode for Wechat ~</p><span id="more"></span><p><img src="/images/qrcode.jpg" alt="qrcodeWechat.jpg"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Would like to introduce me with girlfriend?&lt;br&gt;QRcode for Wechat ~&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Resume</title>
+    <link href="https://lizhenqiao.github.io/2021/08/26/test/"/>
+    <id>https://lizhenqiao.github.io/2021/08/26/test/</id>
+    <published>2021-08-26T20:14:07.000Z</published>
+    <updated>2021-08-31T02:07:55.015Z</updated>
+    
+    <content type="html"><![CDATA[<p>abstract</p><span id="more"></span><p><img src="/../images/cv-eng.jpg" alt="cv-eng.jpg"></p><h1 id="aaa"><a href="#aaa" class="headerlink" title="aaa"></a>aaa</h1><ul><li>bbb<h1 id="ccc"><a href="#ccc" class="headerlink" title="ccc"></a>ccc</h1></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;abstract&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
