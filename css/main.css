@@ -175,7 +175,7 @@ body {
   height: 100%;
 }
 body {
-  background: url("../../../images/761bay.jpg");
+  background: url("../../../images/desktop.jpg");
   background-position-x: center;
   background-size: cover;
   background-attachment: fixed;
@@ -1180,7 +1180,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f9ffec;
+  background: #216bfe;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
