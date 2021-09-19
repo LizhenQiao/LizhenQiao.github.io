@@ -180,8 +180,11 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
+  font-size: 0.9em;
   line-height: 2;
+}
+body .sidebar {
+  font-size: 1em;
 }
 @media (max-width: 991px) {
   body {
@@ -1180,7 +1183,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #25135c;
+  background: #08ff73;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2716,6 +2719,10 @@ ul.breadcrumb li + li:last-child {
 }
 .copyright {
   font-size: 16px;
+  color: #fff;
+}
+.busuanzi-count {
+  font-size: 14px;
   color: #fff;
 }
 .post {
